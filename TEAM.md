@@ -1,9 +1,9 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Mã thành viên (ba chữ số):
-- Người điều phối:
-- Người review bản cuối:
+- Tên nhóm: G06
+- Mã thành viên (ba chữ số): 166 - 175 
+- Người điều phối: Đỗ Quốc Học
+- Người review bản cuối: Đặng Quốc Thái
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)
