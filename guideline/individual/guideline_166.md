@@ -69,7 +69,7 @@ C. can_review
 ## 4. Ca khó
 | Ảnh | Tình huống | Rule ID | Quyết định | Lý do |
 |---|---|---|---|---|
-| img_0xx | | | | |
+| img_009 | Người trên xe buýt quá mờ | BOX-01 | Annotate người | Vẫn còn nhìn thấy được khu vực annotate |
 
 Nếu chưa chốt, đánh dấu `can_review` trên box hoặc ghi vấn đề cấp ảnh. Dùng mã quy tắc trong nhật ký QC.
 
