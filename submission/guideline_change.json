@@ -1,0 +1,4 @@
+{
+  "kind": "editorial",
+  "summary": "Giữ nguyên bộ quy tắc và taxonomy v1.0; làm rõ diễn giải áp dụng R-04 (vùng ignore_region), R-06 (truck ở img_005/img_028/img_037), R-08 (three_wheeler ở img_016/img_023/img_040) và R-09 (chuẩn hóa occluded_level, truncated, tắt can_review) theo các ca calibration."
+}
